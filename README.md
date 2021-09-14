@@ -1,1 +1,3 @@
-# Project_Euler_things
+# Project Euler things
+
+Just Project Euler things.
