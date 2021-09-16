@@ -1,3 +1,5 @@
-# Project Euler things
+# Project Euler Code
 
-Just Project Euler things.
+Website: [Project Euler.net](https://projecteuler.net/)
+
+Rule: Solve question by using code in 1 minute.
