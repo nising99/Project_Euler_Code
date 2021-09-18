@@ -2,4 +2,4 @@
 
 Website: [Project Euler](https://projecteuler.net/)
 
-Rule: Solve question by using code in 1 minute.
+Rule: Solve questions by using code in 1 minute.
